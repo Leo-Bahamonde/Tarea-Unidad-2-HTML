@@ -1,0 +1,29 @@
+body{
+    margin: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+    background: #ccc
+} 
+.container-img{
+     text-align: end; 
+}
+.img-cv{
+     background:white;
+     height: 250px;
+     width: 300px; 
+     border-radius: 50%;
+     box-shadow: 5px 5px 15px rgb(0, 89, 255);
+}
+.title-cv{
+    position: absolute;
+    padding: 50px;
+} 
+h4{
+    color: rgb(0, 89, 255);   
+}
+.margin-box{
+    margin-top: 20px;
+}
+p{
+    margin-left: 25px;
+}
